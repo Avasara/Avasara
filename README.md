@@ -1,7 +1,7 @@
-- 👋 Hey Human, I'm Ifeoluwa😁
-- 👀 I’m interested in Offensive hacking/Pentesting, Mobile App Development and Artificial Intelligience.
-- 🌱 I’m currently learning Python to create my own scripts and create AI and Java for mobile app development.
-- 💞️ I’m looking to collaborate on anything related to Python, Java or AI development.
+- 👋 Hey Human, I'm Ifeoluwa :D
+- ✊ I’m interested in EVERYTHING (Not joking). OS, Programming, Reverse Engineering, Pentesting, AI and yeah everything.
+- 🌱 Working on becoming a jack of all trades (Assembly | Java | C | Bash | Python | Powershell | Coming soon...)
+- ✅ Have a look around. You never know what you'll find ;)
 
 <!---
 Avasara/Avasara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
